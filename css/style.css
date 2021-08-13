@@ -30,7 +30,7 @@ li {
     position: relative;
     background-size: cover;
     background-position: 50% 50%;
-    background-image: url('C:\Users\BenveFam\Desktop\K\UXUI Bootcamp\MyCode\17-Week\HW 17\UX_UI_HW_17\images');
+    background-image: url("../images/KB.jpg");
     background: lightGrey;
 }
 .aboutMe {
